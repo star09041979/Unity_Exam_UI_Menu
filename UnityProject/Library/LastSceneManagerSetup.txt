@@ -1,1 +1,7 @@
-sceneSetups: []
+sceneSetups:
+- path: "Assets/\u671F\u4E2DE1069011.unity"
+  isLoaded: 0
+  isActive: 0
+- path: "Assets/\u7A7A\u767D\u5834\u666F.unity"
+  isLoaded: 1
+  isActive: 1
